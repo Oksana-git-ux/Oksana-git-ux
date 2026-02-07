@@ -1,7 +1,8 @@
 # 👋 Hi, I'm Oksana Melnyk
 ### Junior Fullstack Developer | Next.js | Node.js | TypeScript
 
-Passionate Fullstack Developer with a solid foundation in building responsive web applications using **Next.js**, **React**, and **Node.js**. Experienced in implementing complex state management with **Zustand**, optimizing performance with **React Query**, and developing secure REST APIs with **MongoDB**.
+Fullstack Developer with a solid foundation in building responsive web applications using **Next.js**, **React**, and **Node.js**. Experienced in implementing complex state management with **Zustand**, optimizing performance with **React Query**, and developing secure REST APIs with **MongoDB**.
+
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=3178C6&height=2&section=header" width="100%"/>
 
